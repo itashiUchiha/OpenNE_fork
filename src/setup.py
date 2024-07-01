@@ -7,7 +7,7 @@ setup(
     author="THUNLP",
     description="Open Source Network Embedding toolkit",
     packages=find_packages(),
-    long_description=open("/content/drive/MyDrive/upwork_client_01/OpenNE/README.md").read(),
+    long_description=open("/kaggle/working/OpenNE_fork/README.md").read(),
     zip_safe=False,
     setup_requires=[]
 )
